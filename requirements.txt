@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+ultralytics
+reportlab
+pillow
+mysql-connector-python
+sqlalchemy
+pandas
+opencv-python-headless==4.5.3.56
